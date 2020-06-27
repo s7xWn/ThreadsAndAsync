@@ -1,0 +1,7 @@
+C:\Users\s7x\Desktop\MatSort-master\MasSort\bin\Debug\MasSort.exe.config
+C:\Users\s7x\Desktop\MatSort-master\MasSort\bin\Debug\MasSort.exe
+C:\Users\s7x\Desktop\MatSort-master\MasSort\bin\Debug\MasSort.pdb
+C:\Users\s7x\Desktop\MatSort-master\MasSort\obj\Debug\MasSort.csprojAssemblyReference.cache
+C:\Users\s7x\Desktop\MatSort-master\MasSort\obj\Debug\MasSort.csproj.CoreCompileInputs.cache
+C:\Users\s7x\Desktop\MatSort-master\MasSort\obj\Debug\MasSort.exe
+C:\Users\s7x\Desktop\MatSort-master\MasSort\obj\Debug\MasSort.pdb

@@ -1,0 +1,9 @@
+C:\Users\s7x\Desktop\MatMultip-master\MatrixSolver\bin\Debug\inputLeft.txt
+C:\Users\s7x\Desktop\MatMultip-master\MatrixSolver\bin\Debug\inputRight.txt
+C:\Users\s7x\Desktop\MatMultip-master\MatrixSolver\bin\Debug\MatrixSolver.exe.config
+C:\Users\s7x\Desktop\MatMultip-master\MatrixSolver\bin\Debug\MatrixSolver.exe
+C:\Users\s7x\Desktop\MatMultip-master\MatrixSolver\bin\Debug\MatrixSolver.pdb
+C:\Users\s7x\Desktop\MatMultip-master\MatrixSolver\obj\Debug\MatrixSolver.csprojAssemblyReference.cache
+C:\Users\s7x\Desktop\MatMultip-master\MatrixSolver\obj\Debug\MatrixSolver.csproj.CoreCompileInputs.cache
+C:\Users\s7x\Desktop\MatMultip-master\MatrixSolver\obj\Debug\MatrixSolver.exe
+C:\Users\s7x\Desktop\MatMultip-master\MatrixSolver\obj\Debug\MatrixSolver.pdb
